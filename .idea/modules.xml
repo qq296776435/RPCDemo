@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RPCDemo.iml" filepath="$PROJECT_DIR$/RPCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCclient/RPCclient.iml" filepath="$PROJECT_DIR$/RPCclient/RPCclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCframework/RPCframework.iml" filepath="$PROJECT_DIR$/RPCframework/RPCframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCserver/RPCserver.iml" filepath="$PROJECT_DIR$/RPCserver/RPCserver.iml" />
+    </modules>
+  </component>
+</project>
